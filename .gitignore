@@ -1,5 +1,8 @@
 dist/bundle.*
 dist/index.html
+dist/css
+dist/css/*
+dist/src
 
 # Logs
 logs
@@ -63,3 +66,4 @@ typings/
 # next.js build output
 .next
 /.idea/
+src/networks.js
